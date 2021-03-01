@@ -45,7 +45,6 @@
   📫 How to reach me: <i>enzoalexsander9@gmail.com</i>
 </p>
 
----
 
 <br>
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
@@ -76,7 +75,6 @@
 <a ><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlexsander&layout=compact"></a>
 <br>
 
----
 
 <br>
 
@@ -88,7 +86,6 @@
 
 </p>
 
----
 
 <br>
 
@@ -110,10 +107,9 @@
   
 </p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href="https://github.com/EnzoAlexsander?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
----
 
 <br>
 
