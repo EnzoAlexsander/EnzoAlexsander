@@ -82,6 +82,8 @@
 
 <p align="center" width="100%">
 
+<h2 align="center">GitHub Stats</h2>
+
 <a ><img width="100%" height="220" src="https://github-readme-stats.vercel.app/api?username=EnzoAlexsander&show_icons=true&theme=tokyonight"></a>
 
 </p>
@@ -108,7 +110,7 @@
   
 </p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href="https://github.com/EnzoAlexsander?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 ---
