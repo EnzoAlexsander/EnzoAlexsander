@@ -71,7 +71,7 @@
   <code><img title="Insomnia" height="25" src="./assets/insomnia.svg"></code>
 
 
-<br><bR>
+<br>
 <a ><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlexsander&layout=compact"></a>
 <br>
 
