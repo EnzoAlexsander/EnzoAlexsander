@@ -70,6 +70,7 @@
 <a ><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlexsander&layout=compact"></a>
 <br>
 
+<br>
 <p align="center" width="100%">
 
 <h2 align="center">GitHub Stats</h2>
@@ -112,7 +113,7 @@
   
 </p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href="https://github.com/EnzoAlexsander?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 
