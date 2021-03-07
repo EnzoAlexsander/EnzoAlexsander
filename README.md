@@ -1,25 +1,25 @@
-<h2 align="center"> Hi there , I'm Enzo Alexsander!👋</h2>
+<h2 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px"> Hi there , I'm Enzo Alexsander!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px"></h2>
 
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/enzo-alexsander/">
-    <img alt="Linkedin" width="22px" src="./assets/linkedin.svg" />Linkedin
+    <img alt="Linkedin" width="22px" src="./assets/linkedin.svg" />
   </a>
   </code>
   <a href="https://t.me/enzoalexsander">
-    <img alt="Telegram" width="22px" src="./assets/telegram.svg" />Telegram
+    <img alt="Telegram" width="22px" src="./assets/telegram.svg" />
   </a>
   </code>
   <a href="https://www.instagram.com/enzo.alexsander/">
-    <img alt="Instagram" width="22px" src="./assets/instagram.svg" />Instagram
+    <img alt="Instagram" width="22px" src="./assets/instagram.svg" />
   </a>
   </code>
   <a href="https://twitter.com/enzoalexsander9">
-    <img alt="Twitter" width="22px" src="./assets/twitter.svg" />Twitter
+    <img alt="Twitter" width="22px" src="./assets/twitter.svg" />
   </a>
   </code>
   <a href="https://www.facebook.com/profile.php?id=100003578268051">
-    <img alt=" Facebook" width="22px" src="./assets/facebook.svg" />Facebook
+    <img alt=" Facebook" width="22px" src="./assets/facebook.svg" />
   </a>
   </code>  
 </h5>
@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  Hi, I'm Enzo Alexsander. Junior Front-End Developer. I live in Brasília, Brazil
+  Hi, I'm Enzo Alexsander. Junior Front-End Developer. I live in Brasília, Brazil 
   <br>
   <br>
   🎓 I graduated in Systems Analysis and Development from Centro Universitário de Brasília (UniCEUB)
@@ -62,13 +62,8 @@
   <code><img title="Bootstrap" height="25" src="./assets/bootstrap.svg"></code>
   <code><img title="Node.js" height="25" src="./assets/node.svg"></code>
   <code><img title="Java" height="25" src="./assets/java.svg"></code>
-  <code><img title="JSON" height="25" src="./assets/json.svg"></code>
-  <code><img title="NPM" height="25" src="./assets/npm.svg"></code>
-  <code><img title="Yarn" height="25" src="./assets/yarn.svg"></code>
   <code><img title="MySQL" height="25" src="./assets/mysql.svg"></code>
   <code><img title="PostgreSQL" height="25" src="./assets/postgre.svg"></code>
-  <code><img title="MongoDB" height="25" src="./assets/mongo.svg"></code>
-  <code><img title="Insomnia" height="25" src="./assets/insomnia.svg"></code>
 
 <br><br>
 <a ><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlexsander&layout=compact"></a>
