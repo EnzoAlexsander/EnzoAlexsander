@@ -22,17 +22,24 @@
 
 <br>
 
-<p align="center">
-  Hi, I'm Enzo Alexsander. Junior Front-End Developer. I live in Brasília, Brazil 
+<p align="left">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> Hello, my name is Enzo Alexsander, I am 23 years old and I live in Brasilia, Brazil.
   <br>
   <br>
   🎓 I graduated in Systems Analysis and Development from Centro Universitário de Brasília (UniCEUB)
   <br>
+  <br>
   💻 I really like to develop front-end applications and learn everything from this universe
+  <br>
   <br>
   🔬 I'm currently starting Rocketseat Ignite on the ReactJS track
   <br>
+  <br>
   📚 I have been studying the basics of web programming in the last few months (HTML, CSS and JavaScript) and I am looking for the next level by starting to learn the ReactJS framework
+  <br>
+  <br>
+  🚀 My short-term goal is to solidify my knowledge of JavaScript and learn to use ReactJS so that I can get a position as a Front-End Junior Developer.
+  <br>
   <br>
   💬 Ask me about <a href="https://github.com/EnzoAlexsander/EnzoAlexsander/issues" title="Issues">Here</a>
   <br>
@@ -78,17 +85,30 @@
 
 <p width="100%" align="center" >
 
-  <a href="https://github.com/EnzoAlexsander/comeondev-next" title="Comeondev"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=comeondev-next&theme=gotham">
+  <a href="https://github.com/EnzoAlexsander/comeondev-next" title="Comeon-dev"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=comeondev-next&theme=gotham">
   </a>
   
-  <a href="https://github.com/EnzoAlexsander/projeto-doe-sangue" title="Comeondev"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=projeto-doe-sangue&theme=gotham">
+  <a href="https://github.com/EnzoAlexsander/projeto-doe-sangue" title="DoeSangue"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=projeto-doe-sangue&theme=gotham">
   </a>
 
-  <a href="https://github.com/EnzoAlexsander/dev-finance" title="Comeondev"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=dev-finance&theme=gotham">
+  <a href="https://github.com/EnzoAlexsander/dev-finance" title="DevFinance"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=dev-finance&theme=gotham">
   </a>
 
-  <a href="https://github.com/EnzoAlexsander/nextquiz-base" title="Comeondev"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=nextquiz-base&theme=gotham">
+  <a href="https://github.com/EnzoAlexsander/nextquiz-base" title="Nextquiz"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=nextquiz-base&theme=gotham">
   </a>
+  
+  <a href="https://github.com/EnzoAlexsander/app-orcamento-pessoal" title="App-Orcamento-Pessoal"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=app-orcamento-pessoal&theme=gotham">
+  </a>
+  
+  <a href="https://github.com/EnzoAlexsander/insta_post" title="InstaPost"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=insta_post&theme=gotham">
+  </a>
+  
+  <a href="https://github.com/EnzoAlexsander/urna-eletronica-digital" title="Urna-Eletronica-Digital"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=urna-eletronica-digital&theme=gotham">
+  </a>
+  
+  <a href="https://github.com/EnzoAlexsander/jogo-da-futemoria" title="Futmoria"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=jogo-da-futemoria&theme=gotham">
+  </a>
+  
   
 </p>
 
