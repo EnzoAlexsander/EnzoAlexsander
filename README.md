@@ -1,27 +1,21 @@
-<h2 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px"> Hi there , I'm Enzo Alexsander!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px"></h2>
+<h2 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px"> Hi there , I'm Enzo Alexsander <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px"></h2>
 
 <h5 align="center">
-  <code>
     <a href="https://www.linkedin.com/in/enzo-alexsander/">
-    <img alt="Linkedin" width="22px" src="./assets/linkedin.svg" />
-  </a>
-  </code>
-  <a href="https://t.me/enzoalexsander">
-    <img alt="Telegram" width="22px" src="./assets/telegram.svg" />
-  </a>
-  </code>
-  <a href="https://www.instagram.com/enzo.alexsander/">
-    <img alt="Instagram" width="22px" src="./assets/instagram.svg" />
-  </a>
-  </code>
-  <a href="https://twitter.com/enzoalexsander9">
-    <img alt="Twitter" width="22px" src="./assets/twitter.svg" />
-  </a>
-  </code>
-  <a href="https://www.facebook.com/profile.php?id=100003578268051">
-    <img alt=" Facebook" width="22px" src="./assets/facebook.svg" />
-  </a>
-  </code>  
+      <img alt="Linkedin" width="22px" src="./assets/linkedin.svg" />Linkedin
+    </a>
+    <a href="https://t.me/enzoalexsander">
+      <img alt="Telegram" width="22px" src="./assets/telegram.svg" />Telegram
+    </a>
+    <a href="https://www.instagram.com/enzo.alexsander/">
+      <img alt="Instagram" width="22px" src="./assets/instagram.svg" />Instagram
+    </a>
+    <a href="https://twitter.com/enzoalexsander9">
+      <img alt="Twitter" width="22px" src="./assets/twitter.svg" />Twitter
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100003578268051">
+      <img alt=" Facebook" width="22px" src="./assets/facebook.svg" />Facebook
+    </a>
 </h5>
 
 <h3 aligin="center"></h3>
