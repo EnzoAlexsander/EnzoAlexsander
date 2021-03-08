@@ -82,37 +82,6 @@
 
 <br>
 
-<h2 align="center">Repositories</h2>
-
-<p width="100%" align="center" >
-
-  <a href="https://github.com/EnzoAlexsander/comeondev-next" title="Comeon-dev"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=comeondev-next&theme=gotham">
-  </a>
-  
-  <a href="https://github.com/EnzoAlexsander/projeto-doe-sangue" title="DoeSangue"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=projeto-doe-sangue&theme=gotham">
-  </a>
-
-  <a href="https://github.com/EnzoAlexsander/dev-finance" title="DevFinance"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=dev-finance&theme=gotham">
-  </a>
-
-  <a href="https://github.com/EnzoAlexsander/nextquiz-base" title="Nextquiz"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=nextquiz-base&theme=gotham">
-  </a>
-  
-  <a href="https://github.com/EnzoAlexsander/app-orcamento-pessoal" title="App-Orcamento-Pessoal"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=app-orcamento-pessoal&theme=gotham">
-  </a>
-  
-  <a href="https://github.com/EnzoAlexsander/insta_post" title="InstaPost"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=insta_post&theme=gotham">
-  </a>
-  
-  <a href="https://github.com/EnzoAlexsander/urna-eletronica-digital" title="Urna-Eletronica-Digital"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=urna-eletronica-digital&theme=gotham">
-  </a>
-  
-  <a href="https://github.com/EnzoAlexsander/jogo-da-futemoria" title="Futmoria"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoAlexsander&repo=jogo-da-futemoria&theme=gotham">
-  </a>
-  
-  
-</p>
-
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href="https://github.com/EnzoAlexsander?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
