@@ -78,14 +78,7 @@
 <a ><img width="100%" height="220" src="https://github-readme-stats.vercel.app/api?username=EnzoAlexsander&show_icons=true&theme=tokyonight"></a>
 
 </p>
-
-
 <br><br>
-
-<h4 align="center"><a href="https://github.com/EnzoAlexsander?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
-
-
-<br>
 
 <p align = "center">
     🔥 From <a href="https://github.com/EnzoAlexsander">Enzo Alexsander</a>
