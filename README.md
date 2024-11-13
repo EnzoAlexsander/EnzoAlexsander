@@ -23,7 +23,7 @@
 <br>
 
 <p align="left">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> Hello, my name is Enzo Alexsander, I am 23 years old and I live in Brasilia, Brazil.
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> Hello, my name is Enzo Alexsander, I am 27 years old and I live in Brasilia, Brazil.
   <br>
   <br>
   🎓 I graduated in Systems Analysis and Development from Centro Universitário de Brasília (UniCEUB)
